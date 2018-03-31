@@ -1,0 +1,6 @@
+name: foliage_env
+
+dependencies:
+  - matplotlib
+  - pandas
+  - datetime
